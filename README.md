@@ -61,4 +61,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/cosmic-shivam/leetcode/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0650-2-keys-keyboard](https://github.com/cosmic-shivam/leetcode/tree/master/0650-2-keys-keyboard) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0650-2-keys-keyboard](https://github.com/cosmic-shivam/leetcode/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
