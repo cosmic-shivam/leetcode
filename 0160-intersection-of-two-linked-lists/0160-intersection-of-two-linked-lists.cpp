@@ -9,24 +9,40 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        map<ListNode* , int>mpp;
-        ListNode* tempa=headA;
-        ListNode* tempb=headB;
+        ListNode* temp1=headA;
+        ListNode* temp2=headB;
+        if(headA==NULL || headB==NULL)return NULL;
 
-        while (tempa != nullptr) 
+        while(temp1!=temp2)
         {
-        mpp[tempa] = 1;
-        tempa = tempa->next;
+            temp1=temp1->next;
+            temp2=temp2->next;
+            if(temp1==temp2)return temp1;
+            if(temp1==NULL) temp1=headB;
+            if(temp2==NULL) temp2=headA;
         }
-     // Traverse through list B and check if any node is already in the map
-    while (tempb != nullptr) {
-        if (mpp.find(tempb) != mpp.end()) {
-            return tempb;
-        }
-        tempb = tempb->next;
-    }
+        return temp1;
 
-    return nullptr;
+
+
+    //     map<ListNode* , int>mpp;
+    //     ListNode* tempa=headA;
+    //     ListNode* tempb=headB;
+
+    //     while (tempa != nullptr) 
+    //     {
+    //     mpp[tempa] = 1;
+    //     tempa = tempa->next;
+    //     }
+    //  // Traverse through list B and check if any node is already in the map
+    //     while (tempb != nullptr) {
+    //     if (mpp.find(tempb) != mpp.end()) {
+    //         return tempb;
+    //     }
+    //     tempb = tempb->next;
+    // }
+
+    // return nullptr;
 
 
         
