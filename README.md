@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/cosmic-shivam/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/cosmic-shivam/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/cosmic-shivam/leetcode/tree/master/0890-lemonade-change) |
+| [1240-stone-game-ii](https://github.com/cosmic-shivam/leetcode/tree/master/1240-stone-game-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/cosmic-shivam/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Backtracking
 |  |
@@ -79,10 +80,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/cosmic-shivam/leetcode/tree/master/0002-add-two-numbers) |
 | [0650-2-keys-keyboard](https://github.com/cosmic-shivam/leetcode/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/cosmic-shivam/leetcode/tree/master/1240-stone-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/cosmic-shivam/leetcode/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/cosmic-shivam/leetcode/tree/master/1240-stone-game-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,4 +94,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/cosmic-shivam/leetcode/tree/master/0148-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/cosmic-shivam/leetcode/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/cosmic-shivam/leetcode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
