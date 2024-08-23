@@ -12,18 +12,22 @@ public:
             {
                 count++;
             }
+            // while(count>k)
+            // {
+            //     if(nums[i]==0)
+            //     {
+            //         count--;
+            //     }
+            //     i++;
+            // }
+            if(count>k){
+                if(nums[i]==0)count--;
+                i++;
+            }
             if(count<=k)
             {
                 store=j-i+1;
                 maxi=max(maxi,store);
-            }
-            while(count>k)
-            {
-                if(nums[i]==0)
-                {
-                    count--;
-                }
-                i++;
             }
             j++;
 
