@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/cosmic-shivam/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/cosmic-shivam/leetcode/tree/master/1240-stone-game-ii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/cosmic-shivam/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/cosmic-shivam/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Backtracking
 |  |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/cosmic-shivam/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/cosmic-shivam/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/cosmic-shivam/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/cosmic-shivam/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/cosmic-shivam/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/cosmic-shivam/leetcode/tree/master/1240-stone-game-ii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/cosmic-shivam/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/cosmic-shivam/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/cosmic-shivam/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/cosmic-shivam/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Simulation
 |  |
 | ------- |
