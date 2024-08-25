@@ -1,5 +1,6 @@
 class Solution {
 public:
+// same as binary sum substring with less than or equal to K;
 int fun(vector<int>& nums, int k)
 {
         if( k<0) return 0;
