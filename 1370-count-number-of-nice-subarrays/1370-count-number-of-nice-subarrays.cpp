@@ -1,34 +1,31 @@
 class Solution {
 public:
-    int numberOfSubarrays(vector<int>& nums, int k) {
+int fun(vector<int>& nums, int k)
+{
+        if( k<0) return 0;
         int i=0,j=0,count=0;
-        int checker=0;
+        int sum=0;
         int n=nums.size();
-        int prefix_even=0;
+        // int prefix_even=0;
 
         while(j<n)
         {
-            if(nums[j]%2==1)
-            {
-                checker++;
-                prefix_even = 0;
+            sum+=nums[j]%2;
 
-            }
-            while(checker==k)
+            while(sum>k)
             {
-                // count++;
-                if(nums[i] % 2==1){
-                    checker--;
-                }
+                sum-=nums[i]%2;
                 i++;
-                prefix_even++;
             }
-            count+=prefix_even;
+            count+=j-i+1;
             j++;
-
 
         }
         return count;
+}
+    int numberOfSubarrays(vector<int>& nums, int k) {
+        
+        return fun(nums,k)-fun(nums,k-1);
         
     }
 };
