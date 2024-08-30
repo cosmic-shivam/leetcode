@@ -184,14 +184,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/cosmic-shivam/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/cosmic-shivam/leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/cosmic-shivam/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/cosmic-shivam/leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/cosmic-shivam/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/cosmic-shivam/leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Breadth-First Search
 |  |
 | ------- |
