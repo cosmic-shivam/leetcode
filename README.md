@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0040-combination-sum-ii) |
 | [0496-next-greater-element-i](https://github.com/cosmic-shivam/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0539-minimum-time-difference](https://github.com/cosmic-shivam/leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/cosmic-shivam/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/cosmic-shivam/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/cosmic-shivam/leetcode/tree/master/0890-lemonade-change) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0148-sort-list](https://github.com/cosmic-shivam/leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/cosmic-shivam/leetcode/tree/master/0242-valid-anagram) |
+| [0539-minimum-time-difference](https://github.com/cosmic-shivam/leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/cosmic-shivam/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Greedy
 |  |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/cosmic-shivam/leetcode/tree/master/0002-add-two-numbers) |
+| [0539-minimum-time-difference](https://github.com/cosmic-shivam/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/cosmic-shivam/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/cosmic-shivam/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/cosmic-shivam/leetcode/tree/master/0650-2-keys-keyboard) |
@@ -165,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/cosmic-shivam/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/cosmic-shivam/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/cosmic-shivam/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0539-minimum-time-difference](https://github.com/cosmic-shivam/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/cosmic-shivam/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/cosmic-shivam/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/cosmic-shivam/leetcode/tree/master/0664-strange-printer) |
