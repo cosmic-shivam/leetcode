@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/cosmic-shivam/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/cosmic-shivam/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/cosmic-shivam/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/cosmic-shivam/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/cosmic-shivam/leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/cosmic-shivam/leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/cosmic-shivam/leetcode/tree/master/0231-power-of-two) |
 | [0539-minimum-time-difference](https://github.com/cosmic-shivam/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/cosmic-shivam/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/cosmic-shivam/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/cosmic-shivam/leetcode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/cosmic-shivam/leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/cosmic-shivam/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/cosmic-shivam/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
