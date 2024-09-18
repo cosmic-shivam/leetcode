@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/cosmic-shivam/leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0040-combination-sum-ii) |
+| [0179-largest-number](https://github.com/cosmic-shivam/leetcode/tree/master/0179-largest-number) |
 | [0496-next-greater-element-i](https://github.com/cosmic-shivam/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/cosmic-shivam/leetcode/tree/master/0539-minimum-time-difference) |
@@ -73,12 +74,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/cosmic-shivam/leetcode/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/cosmic-shivam/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/cosmic-shivam/leetcode/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/cosmic-shivam/leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/cosmic-shivam/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/cosmic-shivam/leetcode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/cosmic-shivam/leetcode/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/cosmic-shivam/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/cosmic-shivam/leetcode/tree/master/0890-lemonade-change) |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cosmic-shivam/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/cosmic-shivam/leetcode/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/cosmic-shivam/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/cosmic-shivam/leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/cosmic-shivam/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/cosmic-shivam/leetcode/tree/master/0424-longest-repeating-character-replacement) |
