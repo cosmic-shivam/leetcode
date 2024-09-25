@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/cosmic-shivam/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/cosmic-shivam/leetcode/tree/master/2035-count-sub-islands) |
 | [2227-sum-of-subarray-ranges](https://github.com/cosmic-shivam/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/cosmic-shivam/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/cosmic-shivam/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/cosmic-shivam/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cosmic-shivam/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/cosmic-shivam/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cosmic-shivam/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cosmic-shivam/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/cosmic-shivam/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -302,4 +305,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/cosmic-shivam/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/cosmic-shivam/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/cosmic-shivam/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 <!---LeetCode Topics End-->
