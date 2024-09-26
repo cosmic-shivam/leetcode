@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/cosmic-shivam/leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/cosmic-shivam/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/cosmic-shivam/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/cosmic-shivam/leetcode/tree/master/0729-my-calendar-i) |
 | [0890-lemonade-change](https://github.com/cosmic-shivam/leetcode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/cosmic-shivam/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/cosmic-shivam/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/cosmic-shivam/leetcode/tree/master/0729-my-calendar-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/cosmic-shivam/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/cosmic-shivam/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/cosmic-shivam/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/cosmic-shivam/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/cosmic-shivam/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0729-my-calendar-i](https://github.com/cosmic-shivam/leetcode/tree/master/0729-my-calendar-i) |
 ## Queue
 |  |
 | ------- |
@@ -306,4 +309,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/cosmic-shivam/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/cosmic-shivam/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/cosmic-shivam/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/cosmic-shivam/leetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/cosmic-shivam/leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
