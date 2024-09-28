@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/cosmic-shivam/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/cosmic-shivam/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/cosmic-shivam/leetcode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/cosmic-shivam/leetcode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/cosmic-shivam/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/cosmic-shivam/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/cosmic-shivam/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/cosmic-shivam/leetcode/tree/master/0328-odd-even-linked-list) |
+| [0859-design-circular-deque](https://github.com/cosmic-shivam/leetcode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/cosmic-shivam/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/cosmic-shivam/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/cosmic-shivam/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -273,11 +275,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/cosmic-shivam/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0729-my-calendar-i](https://github.com/cosmic-shivam/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/cosmic-shivam/leetcode/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/cosmic-shivam/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/cosmic-shivam/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/cosmic-shivam/leetcode/tree/master/0859-design-circular-deque) |
 ## Number Theory
 |  |
 | ------- |
