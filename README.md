@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/cosmic-shivam/leetcode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/cosmic-shivam/leetcode/tree/master/0057-insert-interval) |
 | [0179-largest-number](https://github.com/cosmic-shivam/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/cosmic-shivam/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/cosmic-shivam/leetcode/tree/master/0496-next-greater-element-i) |
