@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/cosmic-shivam/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/cosmic-shivam/leetcode/tree/master/2035-count-sub-islands) |
 | [2227-sum-of-subarray-ranges](https://github.com/cosmic-shivam/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cosmic-shivam/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/cosmic-shivam/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cosmic-shivam/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Backtracking
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/cosmic-shivam/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/cosmic-shivam/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/cosmic-shivam/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cosmic-shivam/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cosmic-shivam/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/cosmic-shivam/leetcode/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/cosmic-shivam/leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/cosmic-shivam/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cosmic-shivam/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cosmic-shivam/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
@@ -121,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/cosmic-shivam/leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/cosmic-shivam/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/cosmic-shivam/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cosmic-shivam/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Recursion
 |  |
 | ------- |
@@ -217,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/cosmic-shivam/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/cosmic-shivam/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/cosmic-shivam/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cosmic-shivam/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Game Theory
 |  |
 | ------- |
@@ -302,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/cosmic-shivam/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cosmic-shivam/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/cosmic-shivam/leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
