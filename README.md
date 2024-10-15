@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/cosmic-shivam/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/cosmic-shivam/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/cosmic-shivam/leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/cosmic-shivam/leetcode/tree/master/2050-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/cosmic-shivam/leetcode/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/cosmic-shivam/leetcode/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/cosmic-shivam/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2050-count-good-numbers](https://github.com/cosmic-shivam/leetcode/tree/master/2050-count-good-numbers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/cosmic-shivam/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
 |  |
