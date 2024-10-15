@@ -6,12 +6,12 @@ public:
     {
         if(y==0)return 1;
         long long ans=power(x,y/2);
-        ans*=ans;
-        ans%=mod;
-        if(y%2)ans*=x;
-
-        ans%=mod;
-        return ans;
+        
+        if (y % 2 == 0) {
+        return (ans * ans) % mod; // Even exponent
+    } else {
+        return (x * ans * ans) % mod; // Odd exponent
+    }
         
 
     }
