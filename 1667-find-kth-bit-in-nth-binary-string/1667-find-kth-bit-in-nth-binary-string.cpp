@@ -1,30 +1,29 @@
 class Solution {
 public:
 
-    string flp(string str)
+    char bitFind(int len , int k)
     {
-        int n=str.size();
-        for(int i=0;i<n;i++)
+        //base case:
+        if(len==1)return '0';
+        int half=len/2;
+        int middle=half+1;
+        
+        if(k==middle)return '1';   //middle ele is always 1
+
+        else if(k<middle)   //left
         {
-            if(str[i]=='0')str[i]='1';
-            else{
-                str[i]='0';
-            }
-            
+            return bitFind(half,k);
         }
-        return str;
+        else{ //right
+            char ans=bitFind(half,len-k+1);
+            return(ans=='0')?'1':'0';  //flip
+        }
+         
     }
     char findKthBit(int n, int k) {
-        string str="0";
-        string flip="";
-        while(n>0)
-        {
-            flip=flp(str);
-            reverse(flip.begin(),flip.end());
-            str=str+'1'+flip;
-            n--;
-        }
-        return str[k-1];
+        int len=pow(2,n)-1;
+
+        return bitFind(len,k);
         
     }
 };
