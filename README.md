@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/cosmic-shivam/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/cosmic-shivam/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/cosmic-shivam/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/cosmic-shivam/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/cosmic-shivam/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -320,12 +321,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/cosmic-shivam/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/cosmic-shivam/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/cosmic-shivam/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/cosmic-shivam/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2035-count-sub-islands](https://github.com/cosmic-shivam/leetcode/tree/master/2035-count-sub-islands) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/cosmic-shivam/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/cosmic-shivam/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/cosmic-shivam/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/cosmic-shivam/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/cosmic-shivam/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Memoization
