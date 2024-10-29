@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/cosmic-shivam/leetcode/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0090-subsets-ii) |
 | [0179-largest-number](https://github.com/cosmic-shivam/leetcode/tree/master/0179-largest-number) |
+| [0238-product-of-array-except-self](https://github.com/cosmic-shivam/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/cosmic-shivam/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/cosmic-shivam/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/cosmic-shivam/leetcode/tree/master/0496-next-greater-element-i) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/cosmic-shivam/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0731-my-calendar-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/cosmic-shivam/leetcode/tree/master/1046-max-consecutive-ones-iii) |
