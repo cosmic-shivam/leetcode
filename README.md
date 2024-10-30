@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/cosmic-shivam/leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/cosmic-shivam/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/cosmic-shivam/leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/cosmic-shivam/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/cosmic-shivam/leetcode/tree/master/0539-minimum-time-difference) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/cosmic-shivam/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/cosmic-shivam/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/cosmic-shivam/leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/cosmic-shivam/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/cosmic-shivam/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/cosmic-shivam/leetcode/tree/master/0650-2-keys-keyboard) |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/cosmic-shivam/leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/cosmic-shivam/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/cosmic-shivam/leetcode/tree/master/1013-fibonacci-number) |
 ## Graph
