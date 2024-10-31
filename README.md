@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/cosmic-shivam/leetcode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/cosmic-shivam/leetcode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [0990-verifying-an-alien-dictionary](https://github.com/cosmic-shivam/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1002-maximum-width-ramp](https://github.com/cosmic-shivam/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/cosmic-shivam/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/cosmic-shivam/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/cosmic-shivam/leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cosmic-shivam/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [0990-verifying-an-alien-dictionary](https://github.com/cosmic-shivam/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1370-count-number-of-nice-subarrays](https://github.com/cosmic-shivam/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/cosmic-shivam/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/cosmic-shivam/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/cosmic-shivam/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cosmic-shivam/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/cosmic-shivam/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0990-verifying-an-alien-dictionary](https://github.com/cosmic-shivam/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1197-parsing-a-boolean-expression](https://github.com/cosmic-shivam/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/cosmic-shivam/leetcode/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/cosmic-shivam/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
