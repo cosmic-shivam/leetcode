@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/cosmic-shivam/leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/cosmic-shivam/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/cosmic-shivam/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/cosmic-shivam/leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/cosmic-shivam/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/cosmic-shivam/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/cosmic-shivam/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/cosmic-shivam/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/cosmic-shivam/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/cosmic-shivam/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0213-house-robber-ii) |
@@ -513,4 +515,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/cosmic-shivam/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/cosmic-shivam/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/cosmic-shivam/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
