@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/cosmic-shivam/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/cosmic-shivam/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0090-subsets-ii) |
 | [0179-largest-number](https://github.com/cosmic-shivam/leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/cosmic-shivam/leetcode/tree/master/0198-house-robber) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/cosmic-shivam/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/cosmic-shivam/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/cosmic-shivam/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/cosmic-shivam/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0213-house-robber-ii) |
@@ -423,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0064-minimum-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/cosmic-shivam/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2035-count-sub-islands](https://github.com/cosmic-shivam/leetcode/tree/master/2035-count-sub-islands) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/cosmic-shivam/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
