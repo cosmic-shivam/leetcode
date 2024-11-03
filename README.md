@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/cosmic-shivam/leetcode/tree/master/0120-triangle) |
 | [0179-largest-number](https://github.com/cosmic-shivam/leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/cosmic-shivam/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0213-house-robber-ii) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/cosmic-shivam/leetcode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/cosmic-shivam/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/cosmic-shivam/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/cosmic-shivam/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
