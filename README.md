@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/cosmic-shivam/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/cosmic-shivam/leetcode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/cosmic-shivam/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/cosmic-shivam/leetcode/tree/master/0539-minimum-time-difference) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/cosmic-shivam/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/cosmic-shivam/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Linked List
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/cosmic-shivam/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/cosmic-shivam/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/cosmic-shivam/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/cosmic-shivam/leetcode/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/cosmic-shivam/leetcode/tree/master/0678-valid-parenthesis-string) |
