@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/cosmic-shivam/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/cosmic-shivam/leetcode/tree/master/2035-count-sub-islands) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/cosmic-shivam/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/cosmic-shivam/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2227-sum-of-subarray-ranges](https://github.com/cosmic-shivam/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/cosmic-shivam/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cosmic-shivam/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/cosmic-shivam/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/cosmic-shivam/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/cosmic-shivam/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/cosmic-shivam/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/cosmic-shivam/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
 |  |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/cosmic-shivam/leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/cosmic-shivam/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1014-k-closest-points-to-origin](https://github.com/cosmic-shivam/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/cosmic-shivam/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cosmic-shivam/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/cosmic-shivam/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cosmic-shivam/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
