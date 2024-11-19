@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/cosmic-shivam/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/cosmic-shivam/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/cosmic-shivam/leetcode/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/cosmic-shivam/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/cosmic-shivam/leetcode/tree/master/0664-strange-printer) |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/cosmic-shivam/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/cosmic-shivam/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/cosmic-shivam/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/cosmic-shivam/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/cosmic-shivam/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/cosmic-shivam/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/cosmic-shivam/leetcode/tree/master/0567-permutation-in-string) |
