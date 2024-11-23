@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/cosmic-shivam/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0967-minimum-falling-path-sum](https://github.com/cosmic-shivam/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/cosmic-shivam/leetcode/tree/master/1013-fibonacci-number) |
+| [1170-shortest-common-supersequence](https://github.com/cosmic-shivam/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/cosmic-shivam/leetcode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/cosmic-shivam/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/cosmic-shivam/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/cosmic-shivam/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/cosmic-shivam/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0990-verifying-an-alien-dictionary](https://github.com/cosmic-shivam/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1170-shortest-common-supersequence](https://github.com/cosmic-shivam/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/cosmic-shivam/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/cosmic-shivam/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/cosmic-shivam/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
