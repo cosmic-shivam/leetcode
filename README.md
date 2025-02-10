@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/cosmic-shivam/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/cosmic-shivam/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/cosmic-shivam/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/cosmic-shivam/leetcode/tree/master/3447-clear-digits) |
 ## Math
 |  |
 | ------- |
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/cosmic-shivam/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/cosmic-shivam/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/cosmic-shivam/leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3447-clear-digits](https://github.com/cosmic-shivam/leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/cosmic-shivam/leetcode/tree/master/3451-string-compression-iii) |
 ## Bit Manipulation
 |  |
@@ -443,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/cosmic-shivam/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/cosmic-shivam/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/cosmic-shivam/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/cosmic-shivam/leetcode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
